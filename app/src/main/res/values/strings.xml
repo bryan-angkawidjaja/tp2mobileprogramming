@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Visit Bali</string>
+    <string name="splash_description">Visit Bali Logo</string>
+    <string name="continue_button">Continue</string>
+    <string name="destinations">Popular Destinations</string>
+    <string name="share">Share</string>
+</resources>
